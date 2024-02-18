@@ -66,7 +66,7 @@ body {
     background-color: #eeded7;
 }
 
-.oju {
+.face {
     top: 4.37em;
     left: 1.25em;
     width: 6.87em;
@@ -77,7 +77,7 @@ body {
     box-shadow: 6.25em 0 #eedeb7, 3.12em 3.12em #eedeb7;
 }
 
-.oju:before {
+.face:before {
     content: " ";
     top: 3.12em;
     left: 1.87em;
@@ -90,7 +90,7 @@ body {
     box-shadow: 6.87em 0 0 -0.37em #000000, 6.87em 0 #ffffff;
 }
 
-.oju:after {
+.face:after {
     content: " ";
     top: 5.62em;
     left: 5.62em;
